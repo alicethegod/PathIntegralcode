@@ -27,7 +27,7 @@ To run these experiments, you will need a Python 3 environment. We recommend usi
 git clone https://github.com/alicethegod/PathIntegralcode
 cd PathIntegralcode
 ```
-*(Please replace `your-username/your-repo-name` with your actual repository path.)*
+
 
 **2. Create and activate a virtual environment (recommended):**
 ```bash
