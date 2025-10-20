@@ -108,7 +108,3 @@ The core of the numerical validation is the `PathIntegralAnalyzer` (or `TheoryAn
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For questions about the paper or the code, please contact Zhangchi Liu at [310635@whut.edu.cn].
